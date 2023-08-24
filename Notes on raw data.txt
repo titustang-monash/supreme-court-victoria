@@ -1,0 +1,339 @@
+2018
+2018a 4386 rows
+2018a 14 duplicate rows
+2018b 4386 rows
+2018b 14 duplicate rows
+2018 Merged 4372 rows
+2019
+2019a 15269 rows
+2019a 1183 duplicate rows
+2019b 15405 rows
+2019b 1251 duplicate rows
+2019 Merged 14154 rows
+2020
+2020a 11540 rows
+2020a 112 duplicate rows
+2020b 11793 rows
+2020b 114 duplicate rows
+2020 Merged 11679 rows
+2021
+2021a 13053 rows
+2021a 84 duplicate rows
+2021b 11661 rows
+2021b 70 duplicate rows
+2021 Merged 13178 rows
+2022
+2022a 12848 rows
+2022a 83 duplicate rows
+2022b 12985 rows
+2022b 84 duplicate rows
+2022 Merged 13030 rows
+2023
+2023a 7192 rows
+2023a 27 duplicate rows
+2023b 7183 rows
+2023b 27 duplicate rows
+2023 Merged 7219 rows
+Final file 63632 rows
+
+
+
+
+D:\venv\pytorch1121\Scripts\python.exe "D:/source/supreme-court-victoria/Analysis overview.py"
+Dataframe has 63632 rows
+Court
+Commercial Court - Trial Division                          21528
+Common Law Division - Trial Division                       16322
+Criminal Division - Trial Division                         10969
+Associate Judges - Trial Division                           4844
+Criminal Division - Court of Appeal                         3466
+Civil Division - Court of Appeal                            2456
+Costs Court - Trial Division                                1794
+Z Probate - Trial Division                                   724
+Practice Court (Common Law) - Trial Division                 570
+Commercial Court Duty Judge - Trial Division                 342
+Pre-Trial Conferences - Trial Division                       321
+Full Court                                                   130
+Notice                                                        53
+Associate Judges - Court of Appeal                            51
+Forensic Leave Panel                                          17
+Criminal Law Division - Trial Division                        15
+Appeal from VCAT - Trial Division                             11
+Commercial and Equity Division - Trial Division                6
+non-event                                                      5
+Appeal from Magistrates Court - Trial Division                 5
+Practice Court (Common Law) - Court of Appeal                  1
+Probate - Trial Division                                       1
+NOTICES TO THE PROFESSION AND OTHER SUPREME COURT USERS        1
+Name: Court, dtype: int64
+ISNA 0
+----------------------------
+
+
+Case number
+                    206
+S CR 2018 0063      163
+S CR 2018 0064      163
+S ECR 2020 0324     102
+S ECI 2014 00146     84
+S CR 2017 0100       83
+S ECR 2020 0176      83
+S ECR 2020 0178      83
+S ECR 2020 0174      82
+S CI 2012 07185      82
+S CR 2017 0173       82
+S ECR 2020 0189      78
+S ECI 2017 00283     73
+S ECI 2019 01225     73
+S ECI 2019 02916     73
+S ECI 2017 00145     72
+S CR 2018 0274       71
+S ECR 2020 0003      69
+S CR 2018 0235       69
+S CR 2018 0068       66
+S CI 2011 04332      66
+S CR 2018 0070       66
+S CR 2018 0069       65
+S ECI 2018 00073     64
+S ECI 2017 00190     63
+S ECI 2020 00373     62
+S ECI 2019 04430     57
+S ECR 2019 0168      56
+S CR 2018 0004       56
+S ECR 2019 0243      56
+                   ...
+S CR 2020 0252        1
+S ECI 2019 05886      1
+S ECI 2020 03491      1
+S ECI 2020 03493      1
+S ECI 2020 03506      1
+S ECI 2020 03543      1
+S ECR 2020 0243       1
+S ECI 2020 03736      1
+S ECI 2020 03737      1
+S ECI 2020 03092      1
+S ECI 2020 02319      1
+S ECI 2020 03626      1
+S ECI 2018 02819      1
+S ECI 2020 01430      1
+S ECR 2020 0217       1
+S ECR 2020 0219       1
+S ECI 2020 02313      1
+S ECI 2020 02923      1
+S ECI 2020 03399      1
+S ECI 2020 03691      1
+S ECI 2019 04304      1
+S ECI 2020 03388      1
+S ECI 2019 04306      1
+S ECI 2020 02566      1
+S ECR 2020 0230       1
+S ECI 2020 03364      1
+S ECI 2020 03701      1
+S ECI 2020 02349      1
+S ECI 2020 03567      1
+S ECI 2022 05318      1
+Name: Case number, Length: 18765, dtype: int64
+ISNA 0
+----------------------------
+
+
+Location
+In Chambers                                                                                         26305
+Court 5, Ground Floor 436 Lonsdale Street, Melb.                                                     2995
+Court 2, Ground Floor 436 Lonsdale Street, Melb.                                                     2151
+Green Court, Ground Floor 459 Lonsdale Street, Melb.                                                 1911
+On the Papers                                                                                        1722
+Court 3, Ground Floor 210 William Street, Melb.                                                      1606
+Via Email                                                                                            1526
+Red Court, First Floor 459 Lonsdale Street, Melb.                                                    1477
+Court 7, Ground Floor 210 William Street, Melb.                                                      1261
+Court 11, Ground Floor 210 William Street, Melb.                                                     1256
+Court 4, Ground Floor 210 William Street, Melb.                                                      1241
+Blue Court, Second Floor 459 Lonsdale Street, Melb.                                                  1197
+Court 12, Ground Floor 210 William Street, Melb.                                                     1149
+Court 6, Ground Floor 436 Lonsdale Street, Melb.                                                     1097
+Court 4, Ground Floor 436 Lonsdale Street, Melb.                                                     1086
+Court 2, Ground Floor 210 William Street, Melb.                                                      1052
+Court 1, Ground Floor, Old High Court 450 Little Bourke Street, Melb.                                1000
+Court 1, Ground Floor 210 William Street, Melb.                                                       944
+Court 7B, Ground Floor 210 William Street, Melb.                                                      821
+Court 15, Ground Floor 210 William Street, Melb.                                                      797
+Court 5, Ground Floor 210 William Street, Melb.                                                       782
+Court 14, First Floor 210 William Street, Melb.                                                       729
+Court 9, First Floor 210 William Street, Melb.                                                        719
+Court 3, Ground Floor, Old High Court 450 Little Bourke Street, Melb.                                 705
+Court 13, First Floor 210 William Street, Melb.                                                       653
+Court 6, First Floor 210 William Street, Melb.                                                        651
+Court 2, Ground Floor, Old High Court 450 Little Bourke Street, Melb.                                 648
+Sitting at County Court 3-3    250 William Street, Melb.                                              509
+Court 3, Ground Floor 436 Lonsdale Street, Melb.                                                      447
+Court 8, Ground Floor 210 William Street, Melb.                                                       420
+                                                                                                    ...
+Sitting at Ballarat                                                                                    45
+Sitting at Wangaratta                                                                                  41
+Sitting at County Court 8-2    250 William Street, Melb.                                               37
+Off-Site Listing                                                                                       36
+Sitting at Warrnambool                                                                                 34
+Sitting at Morwell                                                                                     31
+Sitting at County Court G-1    250 William Street, Melb.                                               25
+Courtroom 7b - SC Melb (William St) 210 William Street, Melb.                                          24
+Sitting at County Court 3-2    250 William Street, Melb.                                               23
+Sitting at Wodonga                                                                                     22
+No City                                                                                                19
+Sitting at SheppartonCourtroom 4.2                                                                     19
+Conference Room Level 1 (436 Lonsdale Street) 436 Lonsdale Street, Melb.                               17
+Sitting at Horsham                                                                                     13
+Electronic Hearing                                                                                      8
+Sitting at County Court 1-6    250 William Street, Melb.                                                4
+Room G5, Ground Floor 210 William St, Melb.                                                             3
+Sitting at Bendigo Courtroom 1                                                                          3
+Mediation Room 1 - SCV Mediation Centre L6, William Cooper Justice Centre, 223 William St, Melb.        3
+Sitting at Monash University Moot Court - Clayton                                                       2
+Sitting at Sale                                                                                         2
+Sitting at Bendigo Courtroom 4.1                                                                        2
+Sitting at County Court 4-2    250 William Street, Melb.                                                2
+Courtroom 7B - SC Melb (William St) 210 William Street, Melb.                                           2
+Meeting Room 2, Level 4 (436 Lonsdale St) 436 Lonsdale Street, Melb.                                    1
+Sitting at Canberra Bc                                                                                  1
+Sitting at County Court 6-2    250 William Street, Melb.                                                1
+Sitting at County Court 3-1    250 William Street, Melb.                                                1
+Courtroom 7B, Ground Floor 210 William Street, Melb.                                                    1
+Mediation Room 5 - SCV Mediation Centre L6, William Cooper Justice Centre, 223 William St, Melb.        1
+Name: Location, Length: 84, dtype: int64
+ISNA 0
+----------------------------
+
+
+Matter
+R v. K K                                                                                                                                                                                                266
+In the matter of an application under the Surveillance Devices Act 1999                                                                                                                                 259
+Admission of Lawyers                                                                                                                                                                                    106
+In the matter of an application by The Secretary to the Department of Justice and Community Safety                                                                                                      103
+R v. Jason Joseph ROBERTS                                                                                                                                                                               102
+Cargill Australia Limited (ACN 004 684 173) v. Viterra Malt Pty Ltd (ACN 096 519 658) & Ors.                                                                                                             85
+R v. Qasim HOUSE                                                                                                                                                                                         83
+R v. Adam BROOKMAN                                                                                                                                                                                       83
+R v. Albert THORN                                                                                                                                                                                        83
+R v. Rikki SMITH                                                                                                                                                                                         83
+R v. George MARROGI                                                                                                                                                                                      82
+R v. Jordan BOTTOM                                                                                                                                                                                       82
+In the matter of an application by Office of Public Prosecutions                                                                                                                                         80
+R v. Brendan PALLANT                                                                                                                                                                                     78
+R v. A M                                                                                                                                                                                                 75
+R v. Abdullah CHAARANI                                                                                                                                                                                   74
+R v. Ahmed MOHAMED                                                                                                                                                                                       74
+Fonterra Brands Australia Pty Ltd (ACN 095 181 669) & Ors. v. Bega Cheese Limited (ACN 008 358 503)                                                                                                      73
+In the Matter of Pacific Services Group Pty Ltd (In Liquidation) (Receivers and Managers Appointed) (ACN 117 545 310)                                                                                    73
+GJB Building Pty Ltd (ACN 607 342 343) as Trustee for the GJB Building Trust & Ors. v. AI & PB Property Pty Ltd (ACN 167 992 323) & Ors.                                                                 73
+Patrice Sarah Turner v. Bayer Australia Ltd (ACN 000 138 714) & Ors.                                                                                                                                     73
+R v. R T                                                                                                                                                                                                 71
+R v. Phillip Michael GALEA                                                                                                                                                                               69
+R v. Adrian James BASHAM                                                                                                                                                                                 69
+R v. Biannca EDMUNDS                                                                                                                                                                                     69
+SLEA PTY LTD v. CONNECTIVE SERVICES PTY LTD & Ors.                                                                                                                                                       66
+In the matter of an application by Victoria Police                                                                                                                                                       64
+Connective Services Pty Ltd & Ors. v. Glenn Andrew Lees & Ors.                                                                                                                                           64
+Coonwarra Pty Ltd v. Cornonero Pty Ltd & Ors.                                                                                                                                                            63
+WOTCH INC v. VicForests                                                                                                                                                                                  61
+                                                                                                                                                                                                       ...
+John Georgiou v. Diogenis Georgiou                                                                                                                                                                        1
+Josephine Susanna Bick v. Evelyn Missen & Ors.                                                                                                                                                            1
+Melissa Jane Vallence & Ors. v. Luke John Taylor                                                                                                                                                          1
+Helena Kempel v. Stephen Kempel                                                                                                                                                                           1
+Robert Hugh Davey & Ors. v. Stephen John Michell in his capacity as Trustee of the bankrupt estate of Caroline Margaret Pescott                                                                           1
+In the matter of the Estate of Paulina Wenzler                                                                                                                                                            1
+In the matter of the Estate of Fay Cerda-Pavia                                                                                                                                                            1
+In the matter of the Estate of Peter Michael Cerda-Pavia                                                                                                                                                  1
+Timbercorp Finance Pty Ltd (In Liquidation) (ACN 054 581 190) v. Stuart Andrew Horsburgh                                                                                                                  1
+R v. Benedicto Bantilan SANTIANES                                                                                                                                                                         1
+Timbercorp Finance Pty Ltd (In Liquidation) (ACN 054 581 190) v. Ross Gregory Oliver                                                                                                                      1
+In the matter of an application by Murat ERKOC                                                                                                                                                            1
+Mark Malone & Ors. v. Robert Best & Ors.                                                                                                                                                                  1
+Stephanie Grubb v. Seely International Pty Ltd & Ors.                                                                                                                                                     1
+In the Matter of ACN 004 082 777 Pty Ltd (ACN 004 082 777)                                                                                                                                                1
+George Nicol v. Honeywell Ltd (ACN 000 646 882) (formerly Honeywell Automation Ltd) & Ors.                                                                                                                1
+David William Livingstone & Ors. v. Lancbil Investments Pty Ltd (ACN 004 995 073) & Ors.                                                                                                                  1
+Wilstead No. 5 Pty Ltd (ACN 006 983 482) as Trustee for the Bowen Family Trust v. Anthony Paul Smyth as representative of the Represented Class                                                           1
+In the Matter of Raw Recruitment Pty Ltd (ACN 600 460 688)                                                                                                                                                1
+Gloria Scott v. Jennifer Margaret Collins (as Executor and Trustee of the Will and Estate of June Margaret Thorneycroft, deceased)                                                                        1
+Andrew Alan Jobling v. Alan Frederick Jobling (by his litigation guardian Debra Anne Davis) & Ors.                                                                                                        1
+In the Matter of Monst Pty Ltd (ACN 101 411 692)                                                                                                                                                          1
+Nina Jean Farrugia v. Tenille Marie Farrugia & Ors.                                                                                                                                                       1
+Habib George Melhem v. Jacques Khouri                                                                                                                                                                     1
+Loscam Australia Pty Ltd (ACN 006 440 991) v. The Cake Syndicate Pty Ltd (ACN 150 924 726)                                                                                                                1
+Debra Jane Grace in her capacity as Trustee for the Debra Grace Trust v. Impact Funds Management Pty Ltd (ACN 138 179 914) in its capacity as Trustee for IIG Central Park Office Unit Trust & Ors.       1
+Hamilton & Marino Builders No 2 Pty Ltd (ACN 615 240 063) v. Moonland Group Pty Ltd (ACN 120 555 615) & Ors.                                                                                              1
+P.S. Marine Pty Ltd (ACN 085 699 752) as trustee for the Altona Property Trust v. Taras Nominees Pty Ltd (ACN 005 170 016) & Ors.                                                                         1
+Ilana Melnikov as Executor of the Estate of Boris Rozenbilt & Ors. v. Michael Vainer & Ors.                                                                                                               1
+In the Matter of Sketchart Pty Ltd (ACN 607 947 651)                                                                                                                                                      1
+Name: Matter, Length: 18591, dtype: int64
+ISNA 0
+----------------------------
+
+
+Hearing
+Directions Hearing (Virtual Hearing)                                                                                                                                                                                                                                                                8376
+Directions Hearing                                                                                                                                                                                                                                                                                  6261
+Application                                                                                                                                                                                                                                                                                         4381
+Application (Virtual Hearing)                                                                                                                                                                                                                                                                       4248
+Trial                                                                                                                                                                                                                                                                                               3474
+ (Virtual Hearing)                                                                                                                                                                                                                                                                                  3183
+Company Winding Up Application                                                                                                                                                                                                                                                                      1902
+For Mention (Virtual Hearing)                                                                                                                                                                                                                                                                       1692
+Trial (Virtual Hearing)                                                                                                                                                                                                                                                                             1631
+Part Heard                                                                                                                                                                                                                                                                                          1426
+For Judgment                                                                                                                                                                                                                                                                                        1411
+For Mediation (Virtual Hearing)                                                                                                                                                                                                                                                                     1409
+Judgment                                                                                                                                                                                                                                                                                            1216
+For Mention                                                                                                                                                                                                                                                                                         1090
+Trial (Part Heard)                                                                                                                                                                                                                                                                                   914
+Post Mediation Directions Hearing (Virtual Hearing)                                                                                                                                                                                                                                                  883
+For Mediation                                                                                                                                                                                                                                                                                        861
+Application for Leave to Appeal (oral hearing)                                                                                                                                                                                                                                                       860
+Hearing                                                                                                                                                                                                                                                                                              826
+Final Directions (Virtual Hearing)                                                                                                                                                                                                                                                                   747
+For Judgment - Leave to Appeal                                                                                                                                                                                                                                                                       742
+Part IV TFM Directions Hearing                                                                                                                                                                                                                                                                       697
+First Directions                                                                                                                                                                                                                                                                                     690
+Preliminary Argument                                                                                                                                                                                                                                                                                 672
+Examination - s198B of the Criminal Procedure Act 2009 (Virtual Hearing)                                                                                                                                                                                                                             571
+For Judgment (Virtual Hearing)                                                                                                                                                                                                                                                                       561
+Application for Bail (Virtual Hearing)                                                                                                                                                                                                                                                               524
+Part IV TFM Directions Hearing (Virtual Hearing)                                                                                                                                                                                                                                                     467
+For Ruling                                                                                                                                                                                                                                                                                           426
+Final Directions                                                                                                                                                                                                                                                                                     422
+                                                                                                                                                                                                                                                                                                    ...
+Admissions of lawyers - counsel are requested to robe                                                                                                                                                                                                                                                  1
+Application via Video-link                                                                                                                                                                                                                                                                             1
+Further Plea and Sentence (Virtual Hearing)                                                                                                                                                                                                                                                            1
+The Supreme Court of Victoria will be closed on Monday 8 June 2020 for the Queen's Birthday public holiday. For urgent applications to the Practice Court or Commercial Court Duty Judge, please refer to the contact information listed below.                                                        1
+Extension of time (Virtual Hearing)                                                                                                                                                                                                                                                                    1
+A ceremony to mark the appointment of Senior Counsel in and for the State of Victoria will be held today in the Banco Court at 9.15 am. Counsel are requested to robe.                                                                                                                                 1
+Admission of Lawyers - Counsel are requested to robe                                                                                                                                                                                                                                                   1
+LTA Judgment (Virtual Hearing)                                                                                                                                                                                                                                                                         1
+Costs Court Alternative Assessment Procedure                                                                                                                                                                                                                                                           1
+Announcement of the appointment of senior counsel for 2020.  The ceremony will be held via Zoom and live streamed via Vimeo (https://vimeo.com/event/434192).                                                                                                                                          1
+Costs Court Alternative Assessment Procedure (Virtual Hearing)                                                                                                                                                                                                                                         1
+Breach of Supervision Order                                                                                                                                                                                                                                                                            1
+A private welcome ceremony for the Honourable Justice Gorton will be held today in the Banco Court. The\nlive stream can be accessed at  https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-gorton-tuesday-8-march-2022-9-15am/                                                        1
+Applications for the admission of lawyers. Counsel are requested to robe. Please enter via 485 Lonsdale Street. The live streams can be accessed at https://www.supremecourt.vic.gov.au/news/admission-ceremonies-on-19-july-2022                                                                      1
+A private welcome ceremony for the Honourable Justice Attiwill will be held today in the Banco Court. The live stream can be accessed at https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-attiwill-tuesday-17-may-2022-9-15am/                                                       1
+A welcome for the Honourable Justice Nichols will be held today in the Banco Court.  Counsel are requested to robe.                                                                                                                                                                                    1
+A private farewell ceremony for the President of the Court of Appeal, the Honourable Justice Maxwell, will be held today in the Banco Court. The\nlive stream can be accessed at https://www.streaming.scvwebcast1.com/farewell-for-the-president-justice-maxwell-wednesday-22-june-2022-4-30pm/       1
+Applications for the admission of lawyers. Counsel are requested to robe. Please enter via 485 Lonsdale Street. The live streams can be accessed at https://www.supremecourt.vic.gov.au/news/admission-ceremonies-on-21-june-2022                                                                      1
+A private welcome ceremony for the Honourable Justice Fox will be held today in the Banco Court. The live stream can be accessed at https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-fox-tuesday-7-june-2022-9-15am/                                                                 1
+A private welcome ceremony for the Honourable Justice O'Meara will be held today in the Banco Court. The live stream can be accessed at https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-omeara-tuesday-31-may-2022-9-15am/                                                          1
+Application Major Crime (Investigative Powers) Act (Virtual Hearing)                                                                                                                                                                                                                                   1
+Renewal/Election of Leave App (partially granted)                                                                                                                                                                                                                                                      1
+A private welcome ceremony for the Honourable Justice Stynes will be held today in the Banco Court. The\nlive stream can be accessed at  https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-stynes-friday-18-march-2022-9-15am/                                                        1
+A private welcome ceremony for the Honourable Justice Walker will be held today in the Banco Court. The\nlive stream can be accessed at https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-walker-tuesday-3-may-2022-9-15am/                                                           1
+Applications for the admission of lawyers. Counsel are requested to robe. Please enter via 485 Lonsdale Street. The live streams can be accessed at https://www.supremecourt.vic.gov.au/news/admission-ceremonies-27-april-2022                                                                        1
+Applications for the admission of lawyers. Counsel are requested to robe. Please enter via 485 Lonsdale Street. The live streams can be accessed at https://www.supremecourt.vic.gov.au/news/in-person-admission-ceremonies-resume                                                                     1
+A private welcome ceremony for the Honourable Justice Button will be held today in the Banco Court. The\nlive stream can be accessed at https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-button-tuesday-5-april-2022-9-15am/                                                         1
+A private welcome ceremony for the Honourable Associate Justice Matthews will be held today in the Banco Court. The\nlive stream can be accessed at  https://www.streaming.scvwebcast1.com/welcome-ceremony-for-associate-justice-matthews-wednesday-30-march-2022-9-15am/                             1
+A private welcome ceremony for the Honourable Justice Osborne will be held today in the Banco Court. The\nlive stream can be accessed at  https://www.streaming.scvwebcast1.com/welcome-ceremony-for-justice-osborne-tuesday-22-march-2022-9-15am/                                                     1
+Application for Interim Detention Order                                                                                                                                                                                                                                                                1
+Name: Hearing, Length: 265, dtype: int64
+ISNA 0
+----------------------------
+
